@@ -18,3 +18,7 @@ Order of operations when ready to push files to origin <br>
 Merge conflicts<br>
 When a merge conflict occurs, you will have to resolve it. <br>
 As long as you pull often, it should not occur too much <br>
+
+For adding branch use --> git checkout -b "branch_name" <br>
+For deleting origin branch --> git push origin :"branch_name"	<br>
+JANELLE DO NOT WORK OFF OF MASTER <BR>
